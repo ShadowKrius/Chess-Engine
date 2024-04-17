@@ -1,2 +1,1 @@
-"# Chess-Engine" 
-"# Chess-Engine" 
+Built a Python-based chess project utilizing Pygame for interface design, enabling two-player matches. Implemented a sophisticated chess engine employing the Nega Max algorithm with Alpha-Beta Pruning for challenging single-player gameplay.
