@@ -1,7 +1,6 @@
 # Chess Engine
 
-
-
+![](https://github.com/ShadowKrius/Chess-Engine/blob/main/ProjectGIF.gif)
 
 ## Overview
 This repository contains a Python-based chess engine designed for two-player matches as well as challenging single-player gameplay. The project leverages Pygame for the graphical interface and employs the Nega Max algorithm with Alpha-Beta Pruning to enhance the chess engine’s decision-making capabilities.
